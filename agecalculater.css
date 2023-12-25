@@ -1,0 +1,12 @@
+ body {
+  background-color: rgb(35, 35, 35);
+  font-family: Helvetica, sans-serif;
+  color: white;
+ }
+ .error-off {
+  visibility: hidden;
+ }
+ .genText {
+  color: rgb(224, 121, 11);
+ }
+ 
